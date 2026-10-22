@@ -27,7 +27,7 @@ Os prints dos testes das requisições e respostas estão armazenados no diretó
 
 * Configurar o Banco de Dados
 
-Execute o script contido em db/script.sql em seu gerenciador de banco de dados (MySQL / MariaDB / phpMyAdmin).
+Execute o scriptdentro de db/script.sql em seu gerenciador de banco de dados (MySQL / MariaDB / phpMyAdmin).
 
 O script criará o banco registros_climaticos e populará com os dados iniciais.
 

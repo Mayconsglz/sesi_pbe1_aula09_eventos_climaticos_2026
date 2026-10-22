@@ -21,7 +21,7 @@ Aplicação Back-end desenvolvida com Node.js, Express e MariaDB/MySQL
 
 Os prints dos testes das requisições e respostas estão armazenados no diretório docs/prints/
 
-[Acessar a pasta de prints](./docs/prints)
+[Pasta de prints](./docs/prints)
 
 # Instruções para Testar
 

@@ -45,3 +45,25 @@ Inicie o servidor:
 ```
 npm run dev
 ```
+
+## Prints
+Usuário Login
+<img src="https://github.com/Mayconsglz/sesi_pbe1_aula09_eventos_climaticos_2026/blob/main/docs/prints/Usuariologin.png">
+Usuário Listar
+<img src="https://github.com/Mayconsglz/sesi_pbe1_aula09_eventos_climaticos_2026/blob/main/docs/prints/Usuariolistar.png">
+Usuário Excluir
+<img src="https://github.com/Mayconsglz/sesi_pbe1_aula09_eventos_climaticos_2026/blob/main/docs/prints/Usuarioexcluir.png">
+Usuário cadastrar
+<img src="https://github.com/Mayconsglz/sesi_pbe1_aula09_eventos_climaticos_2026/blob/main/docs/prints/Usuariocadastrar.png">
+Usuário Atualizar
+<img src="https://github.com/Mayconsglz/sesi_pbe1_aula09_eventos_climaticos_2026/blob/main/docs/prints/Usuarioatualizar.png">
+Evento resumo
+<img src="https://github.com/Mayconsglz/sesi_pbe1_aula09_eventos_climaticos_2026/blob/main/docs/prints/Eventoresumo.png">
+Evento listar
+<img src="https://github.com/Mayconsglz/sesi_pbe1_aula09_eventos_climaticos_2026/blob/main/docs/prints/Eventolistar.png">
+Evento excluir
+<img src="https://github.com/Mayconsglz/sesi_pbe1_aula09_eventos_climaticos_2026/blob/main/docs/prints/Eventoexcluir.png">
+Evento cadastrar
+<img src="https://github.com/Mayconsglz/sesi_pbe1_aula09_eventos_climaticos_2026/blob/main/docs/prints/Eventocadastrar.png">
+evento atualizar
+<img src="https://github.com/Mayconsglz/sesi_pbe1_aula09_eventos_climaticos_2026/blob/main/docs/prints/Eventoatualizar.png">
